@@ -1,0 +1,325 @@
+@media(max-width:1200px) {
+    .nav__div {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .down_1 h3 {
+
+        font-size: 18px;
+        line-height: 15px;
+
+    }
+
+
+
+    .card_2_down_1 {
+
+        max-width: 300px;
+
+        height: 190px;
+
+    }
+
+    .card_2_down_2 {
+
+        max-width: 300px;
+
+        height: 190px;
+
+    }
+
+    .card_2_down_3 {
+
+        max-width: 300px;
+
+        height: 190px;
+
+    }
+
+    .sub_card_4 {
+        flex-direction: column;
+        gap: 0;
+        align-items: center;
+        justify-content: center;
+    }
+    .card_5_down {
+       flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section_container{
+        flex-direction: column;
+        gap: 50px;
+    }
+
+
+
+    .end_container{
+        flex-direction: column;
+        gap: 30PX;
+    }
+    .info{
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+@media(max-width:992px) {
+    .header__box {
+        margin: 0 auto;
+        padding-left: 120px;
+    }
+
+    .header_content_title {
+
+        font-size: 25px;
+        line-height: 38px;
+
+    }
+
+    .card_1_down {
+
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .card_2_down_1 {
+
+        max-width: 253px;
+
+        height: 176px;
+
+    }
+
+    .card_2_down_2 {
+
+        max-width: 253px;
+
+        height: 176px;
+
+    }
+
+    .card_2_down_3 {
+
+        max-width: 253px;
+
+        height: 176px;
+
+    }
+
+    .card_4_img {
+        max-width: 500px;
+    }
+
+    .card_4_img img {
+        max-width: 500px;
+    }
+
+}
+
+@media(max-width:768px) {
+    .nav__div {
+
+        padding: 15px 15px;
+    }
+
+    .header__box {
+        margin: 0 auto;
+        padding-left: 100px;
+    }
+
+
+
+
+    .nav__list {
+
+        flex-direction: column;
+    }
+
+    .card_2_down {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .card_2_down_1 {
+
+        max-width: 445px;
+
+        height: 300px;
+
+    }
+
+    .card_2_down_2 {
+
+        max-width: 445px;
+
+        height: 300px;
+
+    }
+
+    .card_2_down_3 {
+
+        max-width: 445px;
+
+        height: 300px;
+
+    }
+
+    .sub_card_3 {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .card_3_down {
+
+        height: 500px;
+    }
+
+    .card_4_img {
+        max-width: 407px;
+    }
+
+    .card_4_img img {
+        max-width: 407px;
+    }
+
+    .card_4_text p {
+        text-align: center;
+        padding: 10px;
+    }
+
+    .img_map{
+        max-width: 500px;
+    }
+    .blue_footer img{
+        max-width: 500px;
+    }
+
+    .list_footer{
+        flex-direction: column;
+        align-items: center;
+    }
+    .info_footer{
+        flex-direction: column;
+        align-items: center;
+    }
+    .info{
+        align-items: center;
+    }
+}
+
+@media(max-width:576px) {
+    .buuton__nav {
+        padding: 14px 8px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .header__box {
+        margin: 0 auto;
+        padding-left: 17px;
+    }
+
+
+    .card_2_down_1 {
+        max-width: 354px;
+
+        height: 213px;
+    }
+
+    .card_2_down_2 {
+        max-width: 354px;
+
+        height: 213px;
+    }
+
+    .card_2_down_3 {
+        max-width: 354px;
+
+        height: 213px;
+    }
+
+    .card_3_down {
+        height: 580px;
+    }
+
+    .card_4_text p {
+        max-width: 290px;
+
+    }
+
+    .card_4_img img {
+        max-width: 290px;
+    }
+
+
+    .img_map{
+        max-width: 300px;
+    }
+    .blue_footer img{
+        max-width: 300px;
+    }
+    .footer_section h2{
+        font-size: 24px;
+    }
+    .footer_li{
+        padding: 15px 60px;
+    }
+    .footer_left{
+        max-width: 330px;
+    }
+}
+
+@media(max-width:375px) {
+    .nav_tel a {
+
+        font-size: 12px;
+        line-height: 20px;
+
+    }
+
+    .buuton__nav {
+        padding: 13px 4px;
+    }
+
+    .header__box a {
+        padding: 10px 13px;
+    }
+
+    .header__box a {
+        padding: 10px 13px;
+    }
+
+    .header_content {
+        height: 740px;
+    }
+
+    .card_3_down {
+        height: 610px;
+    }
+.footer_left h3{
+    font-size: 18px;
+}
+.footer_li{
+    padding: 15px 20px;
+}
+.footer_left{
+    max-width: 248px;
+}
+.img_map{
+    max-width: 256px;
+}
+.blue_footer img{
+    max-width: 248px;
+}
+.tel___footer{
+    flex-direction: column;
+    align-items: center;
+}
+.info p{
+    text-align: center;
+}
+}
