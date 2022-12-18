@@ -1,3 +1,57 @@
+@media(max-width:1500px){
+
+    .nav__div {
+     
+        padding: 25px 15px;
+        
+            flex-direction: column;
+            gap: 20px;
+       
+    }
+    
+    .card_1_down {
+        max-width: 1360px;
+    
+    }
+    .card_2_down {
+   
+        max-width: 1144px;
+   gap: 10px;
+
+}
+
+.sub_card_4 {
+
+    gap: 0px;
+  
+}
+.card_5_down {
+    max-width: 1411px;
+
+}
+.sub_card_5_1 {
+    max-width: 360px;
+
+    gap: 22px;
+}
+.section_container {
+
+    max-width: 1133px;
+ 
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-width:1200px) {
     .nav__div {
         flex-direction: column;
